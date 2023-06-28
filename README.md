@@ -6,4 +6,4 @@
 ## Files
 
 - [panda](https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab01_Python.ipynb)
-- [numpy] (https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab02_Numpy.ipynb)
+- [numpy](https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab02_Numpy.ipynb)
