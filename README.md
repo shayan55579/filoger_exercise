@@ -5,5 +5,5 @@
 
 ## Files
 
-- [panda]([https://example.com/panda](https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab01_Python.ipynb)https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab01_Python.ipynb)
-- [numpy]([https://example.com/numpy](https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab02_Numpy.ipynb)https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab02_Numpy.ipynb)
+- [panda](https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab01_Python.ipynb)
+- [numpy] (https://github.com/shayan55579/filoger_exercise/blob/main/Ebrahimi_Amirreza_Lab02_Numpy.ipynb)
